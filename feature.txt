@@ -1,0 +1,1 @@
+"This feature allows users to use the app without needing data"
